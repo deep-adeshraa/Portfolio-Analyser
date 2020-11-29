@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.8.1">
+<file name="/home/d/Node.js/qmoney/qmoney/src/test/java/com/crio/warmup/stock/ModuleOneTest.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/test/java/com/crio/warmup/stock/ModuleThreeTest.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/test/java/com/crio/warmup/stock/ModuleTwoTest.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/test/java/com/crio/warmup/stock/PortfolioManagerApplicationTest.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/test/java/com/crio/warmup/stock/portfolio/PortfolioManagerFactoryTest.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/test/java/com/crio/warmup/stock/portfolio/PortfolioManagerPerformanceTest.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/test/java/com/crio/warmup/stock/portfolio/PortfolioManagerTest.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/test/java/com/crio/warmup/stock/quotes/AlphavantageLimitTest.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/test/java/com/crio/warmup/stock/quotes/AlphavantageServiceTest.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/test/java/com/crio/warmup/stock/quotes/StockQuoteServiceFactoryTest.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/test/java/com/crio/warmup/stock/quotes/TiingoServiceTest.java">
+</file>
+</checkstyle>

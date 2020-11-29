@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.8.1">
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/PortfolioManagerApplication.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/Tiingo.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/Trade.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/dto/AlphavantageCandle.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/dto/AlphavantageDailyResponse.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/dto/AnnualizedReturn.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/dto/Candle.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/dto/PortfolioTrade.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/dto/TiingoCandle.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/dto/TotalReturnsDto.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/exception/StockQuoteServiceException.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/log/UncaughtExceptionHandler.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/portfolio/PortfolioManager.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/portfolio/PortfolioManagerFactory.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/portfolio/PortfolioManagerImpl.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/quotes/AlphavantageService.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/quotes/StockQuoteServiceFactory.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/quotes/StockQuotesService.java">
+</file>
+<file name="/home/d/Node.js/qmoney/qmoney/src/main/java/com/crio/warmup/stock/quotes/TiingoService.java">
+</file>
+</checkstyle>
