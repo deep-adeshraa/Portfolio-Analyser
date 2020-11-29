@@ -1,0 +1,1 @@
+curl -X GET -H "Content-Type: application/json" "https://api.tiingo.com/tiingo/daily/aapl/prices?startDate=2019-01-02&token=4bfefbfb973110a9e2c1251778c08616741787e0"
